@@ -1,6 +1,7 @@
 # Expense Tracker Application
 
 A full-stack expense tracking application built with FastAPI backend and React frontend, featuring a modern UI and comprehensive expense management capabilities.
+<img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/16db1d85-08e5-45fd-9413-b36e39371b80" />
 
 ![Expense Tracker](https://img.shields.io/badge/Status-Production%20Ready-green)
 ![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688)
